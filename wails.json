@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Sungrow iSolarCloud Monitor",
+  "outputfilename": "SungrowMonitor",
+  "frontend:install": "bun install",
+  "frontend:build": "bun run build",
+  "frontend:dev:watcher": "bun run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Flyn San",
+    "email": "flynsarmy@gmail.com"
+  }
+}
