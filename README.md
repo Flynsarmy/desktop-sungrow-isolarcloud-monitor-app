@@ -2,7 +2,7 @@
 
 A lightweight cross-platform desktop application for monitoring Sungrow iSolarCloud solar systems.
 
-![](resources/screenshot.jpg)
+![](resources/screenshot2.jpg)
 
 Built with **Wails v2** (Go + React) for native performance and small binary size (~15MB vs 150MB with Electron).
 
